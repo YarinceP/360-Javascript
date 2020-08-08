@@ -1,0 +1,13 @@
+.center-style {
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.range-slider{
+    width: 768px;
+}
